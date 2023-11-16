@@ -55,7 +55,7 @@ public class Calculator {
 
         panel.setBackground(Color.white);
 
-        // Изменение цвета фона кнопок
+        // Изменение цвета кнопок
         Color buttonColor = new Color(204, 204, 255);
         for (JButton button : numberButtons) {
             button.setBackground(buttonColor);
