@@ -1,3 +1,4 @@
+//пример пользы наследования
 class Animal {
     void eat() {
         System.out.println("Животное кушает");
