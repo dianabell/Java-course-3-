@@ -1,3 +1,4 @@
+//пример неправильного использования наследования
 class Rectangle {
     protected int width;
     protected int height;
